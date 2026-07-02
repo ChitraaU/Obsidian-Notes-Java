@@ -1,0 +1,40 @@
+**Decision making**
+(if, if-else, if-else-if ladder)
+
+These work if the condition is statisfied then only the code is executed otherwise the else block if it exist then that is executes
+
+**Switch** 
+
+In this ,the expression is evaluated once and then it is compared to all the other cases and then also if it does not match any case then the default case is executed and if any case is matched then that is executed and as the break statement is used , the loop breaks out and the code is executed .
+
+
+**Loops**
+Loops in programming are used to execute a block of code repeatedly until a specified condition is met. They help reduce code duplication and make programs more efficient and readable. In [Java](https://www.geeksforgeeks.org/java/java/), loops are essential for handling repetitive tasks.
+
+- Allow execution of code multiple times based on a condition
+- Improve efficiency by avoiding repetitive code
+
+==For Loop==
+The for statement includes the initialization, condition, and increment/decrement in one line.
+
+==While and Do while loop==
+
+Similar to the for loop it also includes initialization, condition  and increment/decrement 
+although in while loop the code executes if the condition is met and in do while the code executes at least once.
+
+### ==Enhanced for loop (for each)==
+
+This loop is used to iterate over arrays or collections.
+
+
+| Loop Type     | When to Use                           | Condition Checking                               | Executes At Least Once? |
+| ------------- | ------------------------------------- | ------------------------------------------------ | ----------------------- |
+| for loop      | When you want exact iterations        | Before loop body, It is called Entry-controlled. | no                      |
+| while loop    | When you need condition check first.  | Before loop body, It is called Entry-controlled. | no                      |
+| do-while loop | When you need to run at least once    | After loop body, It is called Exit-controlled.   | yes                     |
+| for-each loop | When you process all collection items | Internally handled                               | no                      |
+
+**Break and Continue**
+
+In a loop if we use a break then it jumps out of the loop while if we use Continue if skips that particular iteration.
+
