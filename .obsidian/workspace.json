@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d499a6f6e56651c",
+            "id": "b6a7813963b453ab",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Java/12 Spring Framework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "12 Spring Framework"
             }
           }
         ]
@@ -44,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -81,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2a51fa06f995df6e",
@@ -159,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Java/Java Collection -II.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Java Collection -II"
             }
           },
           {
@@ -197,20 +197,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d499a6f6e56651c",
+  "active": "b6a7813963b453ab",
   "lastOpenFiles": [
-    "Java/Control Flow.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md",
+    "Java/1.JDK vs JRE vs JVM.md",
+    "Java/3.Methods(1).pdf",
+    "Java/2.Main function, Constant ,Variable, Comment ,Documentation.md",
+    "Java/12 Spring Framework.md",
+    "Java/9.Java Collection -II.md",
+    "Java/10.1 Streams.md",
+    "Java/10.Java Functionals.md",
+    "Java/11. Java Optionals.md",
+    "Java/7.Exception Handling.md",
+    "Java/8.Java_Collections_Framework_Updated.pdf",
+    "Java/6.Object_Oriented_Programming_OOPs.pdf",
+    "My prb skill method/Problem solving skill.md",
+    "Java/5.Operators.md",
+    "Java/4.Control Flow.md",
+    "2026-07-05.md",
     "Untitled.base",
+    "My prb skill method",
+    "Untitled.canvas",
+    "Java Collection Framework.md",
+    "Untitled 1.canvas",
     "Untitled 1.base",
     "Welcome.md",
     "Untitled 1.md",
     "OOPs.md",
-    "Java/JDK vs JRE vs JVM.md",
-    "Java/Main function, Constant ,Variable, Comment ,Documentation.md",
-    "Java/Operators.md",
     "Java/Methods.md",
     "Java"
   ]
